@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+C:\Users\25806\Desktop\钟表\FileName.cpp(9,6): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\25806\Desktop\钟表\FileName.cpp(38,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(40,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(42,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(44,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(45,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(46,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(47,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(48,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25806\Desktop\钟表\FileName.cpp(49,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  钟表.vcxproj -> C:\Users\25806\Desktop\钟表\x64\Debug\钟表.exe
