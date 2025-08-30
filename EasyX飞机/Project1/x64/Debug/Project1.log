@@ -1,0 +1,3 @@
+﻿  fighterMain.cpp
+C:\Users\25806\Desktop\EasyX飞机\fighterMain.cpp(29,43): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+  Project1.vcxproj -> C:\Users\25806\Desktop\EasyX飞机\x64\Debug\Project1.exe
